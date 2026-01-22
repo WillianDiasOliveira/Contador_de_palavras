@@ -11,15 +11,15 @@ Sugestões e melhorias são sempre bem-vindas!</p>
 
 <h2>📖 Descrição do código </h2>
 
-<img width="279" height="88" alt="image" src="https://github.com/user-attachments/assets/bbc35ae7-ad5b-482b-bb06-4daefdb5219e" />
-
-
 Projeto desenvolvido para estudo e prática em Python.<br>
 
 O objetivo é aprimorar um algoritmo de contagem de palavras,incluindo tratamento de texto, remoção de caracteres especiais,<br>
 organização dos dados em dicionários.<br>
 
 
+<h2>⬇️ Print do resultado </h2>
+
+<img width="279" height="88" alt="image" src="https://github.com/user-attachments/assets/bbc35ae7-ad5b-482b-bb06-4daefdb5219e" />
 
 ## 🖥️ Tecnologias
 <div>
