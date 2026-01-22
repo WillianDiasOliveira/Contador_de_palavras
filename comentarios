@@ -1,0 +1,14 @@
+''' 
+    COMENTÁRIOS
+
+    ".items", é uma função usado em dicionários para acessar ao mesmo tempo a chave e o valor de cada item.
+    ".get", é uma função usado em dicionários para pegar o valor de uma chave com segurança.
+    ".strip", é a função que remove os espaços.
+    ".lstrip", é a função que remove os espaços para o lado esquerdo.
+    ".rstrip", é a função que remove os espaços para o lado direito.
+    ".replace", é a função que substitui para outra string.
+    ".lower", é a função que deixa tudo minúsculo em uma string.
+    ".split", é a função que faz o espaçamento em uma string.
+    "Len", é a função que faz a contagem de letras na string.
+
+'''
